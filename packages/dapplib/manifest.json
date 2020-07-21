@@ -1,0 +1,10 @@
+{
+    "name": "Hello World",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/": true,
+        "/framework/vanilla": true,
+        "/category/nft/basic_nft": false,
+        "/category/access_control/contract_runstate": true
+    }
+}
